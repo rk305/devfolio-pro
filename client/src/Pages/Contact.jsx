@@ -1,10 +1,13 @@
 import React from 'react'
+import Navbar from '../components/layout/Navbar'
+import ContactSection from '../components/sections/ContactSection'
 
 function Contact() {
     return (
-        <div>
-            <h1>contaact page</h1>
-        </div>
+        <>
+            <Navbar />
+            <ContactSection />
+        </>
     )
 }
 

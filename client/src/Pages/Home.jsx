@@ -5,6 +5,7 @@ import AboutSection from '../components/sections/AboutSection'
 import Skills from '../components/sections/Skills'
 import ProjectSection from '../components/sections/ProjectSection'
 import ContactSection from '../components/sections/ContactSection'
+import Footer from '../components/sections/Footer'
 function Home() {
     return (
         <>
@@ -14,6 +15,7 @@ function Home() {
             <Skills />
             <ProjectSection />
             <ContactSection />
+            <Footer />
         </>
     )
 }

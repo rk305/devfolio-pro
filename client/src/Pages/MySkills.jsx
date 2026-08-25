@@ -1,14 +1,15 @@
 import React from 'react'
 import Navbar from '../components/layout/Navbar'
-import AboutSection from '../components/sections/AboutSection'
+import Skills from '../components/sections/Skills'
 
-function About() {
+function MySkills() {
     return (
         <>
             <Navbar />
-            <AboutSection />
+            <Skills />
+
         </>
     )
 }
 
-export default About
+export default MySkills

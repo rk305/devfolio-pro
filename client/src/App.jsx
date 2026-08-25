@@ -8,7 +8,7 @@ import Blog from './pages/Blog'
 import Login from './pages/Login'
 import Dashboard from './pages/Dashboard'
 import Notfound from './pages/Notfound'
-import Achievements from './pages/Achievements'
+import MySkills from './pages/MySkills'
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
       <Route path='/about' element={<About />} />
       <Route path='/projects' element={<Projects />} />
       {/* <Route path='/skills' element={<Skills />} /> */}
-      <Route path='/achievements' element={<Achievements />} />
+      <Route path='/skills' element={<MySkills />} />
       <Route path='/contact' element={<Contact />} />
       <Route path='/blog' element={<Blog />} />
       <Route path='/login' element={<Login />} />

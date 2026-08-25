@@ -49,9 +49,8 @@ function AboutSection() {
                             </div>
                         </div>
                         <div className='mt-10'>
-                            <a href="/Resume.pdf" download>
-                                <button className='bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-900 duration-300 cursor-pointer'>
-                                    DownLoad CV</button>
+                            <a href="/Resume.pdf" download className='inline-block bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-900 duration-300 cursor-pointer' >
+                                Download CV
                             </a>
                         </div>
                         <div className='grid grid-cols-1 sm:grid-cols-3 gap-4 mt-10'>

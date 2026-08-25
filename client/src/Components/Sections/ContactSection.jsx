@@ -23,7 +23,7 @@ function ContactSection() {
                         <div className="mt-8 space-y-6">
                             <div>
                                 <p className="text-sm font-semibold text-gray-500"> Email </p>
-                                <a href="mailto:yourmail@gmail.com" className="mt-1 block text-lg font-medium text-gray-900 hover:text-blue-500" >
+                                <a href="mailto:rkumar96347@gmail.com" target="_blank" rel='nonreferer' className="mt-1 block text-lg font-medium text-gray-900 hover:text-blue-500" >
                                     rkumar96347@gmail.com
                                 </a>
                             </div>
@@ -41,10 +41,10 @@ function ContactSection() {
                         </div>
 
                         <div className="mt-8 flex gap-4">
-                            <a href="https://github.com/rk305" className="rounded-lg bg-gray-900 px-5 py-3 text-sm font-medium text-white transition hover:bg-blue-500">
+                            <a href="https://github.com/rk305" target="_blank" rel='nonreferer' className="rounded-lg bg-gray-900 px-5 py-3 text-sm font-medium text-white transition hover:bg-blue-500">
                                 GitHub
                             </a>
-                            <a href="https://linkedin.com/in/rohit-kumar96347" className="rounded-lg border border-gray-300 bg-white px-5 py-3 text-sm font-medium text-gray-900 transition hover:border-blue-500 hover:text-blue-500"  >
+                            <a href="https://linkedin.com/in/rohit-kumar96347" target="_blank" rel='nonreferer' className="rounded-lg border border-gray-300 bg-white px-5 py-3 text-sm font-medium text-gray-900 transition hover:border-blue-500 hover:text-blue-500"  >
                                 LinkedIn
                             </a>
                         </div>
