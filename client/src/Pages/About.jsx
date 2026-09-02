@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from '../Components/layout/Navbar'
-import AboutSection from '../Components/sections/AboutSection'
+import Navbar from '../Components/Layout/Navbar'
+import AboutSection from '../Components/Sections/AboutSection'
 
 function About() {
     return (

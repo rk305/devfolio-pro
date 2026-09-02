@@ -1,11 +1,11 @@
 import React from 'react'
-import Navbar from '../Components/layout/Navbar'
-import Hero from '../Components/sections/Hero'
-import AboutSection from '../Components/sections/AboutSection'
-import Skills from '../Components/sections/Skills'
-import ProjectSection from '../Components/sections/ProjectSection'
-import ContactSection from '../Components/sections/ContactSection'
-import Footer from '../Components/sections/Footer'
+import Navbar from '../Components/Layout/Navbar'
+import Hero from '../Components/Sections/Hero'
+import AboutSection from '../Components/Sections/AboutSection'
+import Skills from '../Components/Sections/Skills'
+import ProjectSection from '../Components/Sections/ProjectSection'
+import ContactSection from '../Components/Sections/ContactSection'
+import Footer from '../Components/Sections/Footer'
 function Home() {
     return (
         <>
