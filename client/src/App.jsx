@@ -1,14 +1,14 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Home from './pages/Home'
-import About from './pages/About'
-import Projects from './pages/Projects'
-import Contact from './pages/Contact'
+import Home from './Pages/Home'
+import About from './Pages/About'
+import Projects from './Pages/Projects'
+import Contact from './Pages/Contact'
 // import Blog from './pages/Blog'
 // import Login from './pages/Login'
 // import Dashboard from './pages/Dashboard'
 // import Notfound from './pages/Notfound'
-import MySkills from './pages/MySkills'
+import MySkills from './Pages/MySkills'
 
 function App() {
   return (
